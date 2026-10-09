@@ -1,0 +1,11 @@
+Django>=5.2,<5.3
+django-allauth>=65.19,<66
+django-crispy-forms>=2.7,<3
+crispy-bootstrap4>=2026.2,<2027
+django-environ>=0.12,<1
+Pillow>=12.1,<13
+psycopg[binary]>=3.3,<4
+requests>=2.32,<3
+stripe>=14.4,<15
+gunicorn>=24,<25
+gevent>=25,<27
